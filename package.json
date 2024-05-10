@@ -1,6 +1,6 @@
 {
   "name": "react-native-star-rating-props-fixed",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "A React Native component for generating and displaying interactive star ratings with prop types fixed for later versions of react",
   "main": "index.js",
   "scripts": {
